@@ -1,5 +1,0 @@
-{
-  "name": "Performance Tracker",
-  "description": "Uma interface simples para conectar a uma base do Supabase e visualizar os dados de uma tabela.",
-  "requestFramePermissions": []
-}
